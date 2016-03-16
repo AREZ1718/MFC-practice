@@ -1,0 +1,29 @@
+﻿Build started 18.06.2014 10:12:29.
+Project "\\psf\Home\Desktop\KursovayaVar9Rezaev\KursovayaVar9Rezaev\KursovayaVar9Rezaev.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\KursovayaVar9Rezaev.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChildView.cpp
+  ChildView.cpp
+\\psf\home\desktop\kursovayavar9rezaev\kursovayavar9rezaev\childview.cpp(68): warning C4018: '<' : signed/unsigned mismatch
+\\psf\home\desktop\kursovayavar9rezaev\kursovayavar9rezaev\childview.cpp(174): warning C4018: '<=' : signed/unsigned mismatch
+\\psf\home\desktop\kursovayavar9rezaev\kursovayavar9rezaev\childview.cpp(183): warning C4018: '<=' : signed/unsigned mismatch
+ResourceCompile:
+  C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\KursovayaVar9Rezaev.res" KursovayaVar9Rezaev.rc 
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\psf\Home\Desktop\KursovayaVar9Rezaev\Debug\KursovayaVar9Rezaev.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"\\psf\Home\Desktop\KursovayaVar9Rezaev\Debug\KursovayaVar9Rezaev.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\psf\Home\Desktop\KursovayaVar9Rezaev\Debug\KursovayaVar9Rezaev.lib" /MACHINE:X86 /SAFESEH Debug\KursovayaVar9Rezaev.res
+  Debug\C2DBox.obj
+  Debug\CGrpObject.obj
+  Debug\ChildView.obj
+  Debug\CObj.obj
+  Debug\DHex.obj
+  Debug\DObjS.obj
+  Debug\Hexagon.obj
+  Debug\KursovayaVar9Rezaev.obj
+  Debug\MainFrm.obj
+  Debug\stdafx.obj
+C2DBox.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  KursovayaVar9Rezaev.vcxproj -> \\psf\Home\Desktop\KursovayaVar9Rezaev\Debug\KursovayaVar9Rezaev.exe
+Done Building Project "\\psf\Home\Desktop\KursovayaVar9Rezaev\KursovayaVar9Rezaev\KursovayaVar9Rezaev.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.21
